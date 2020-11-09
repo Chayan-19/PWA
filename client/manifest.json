@@ -1,0 +1,20 @@
+{
+    "name": "pwa_demo",
+    "short_name": "pwa_demo",
+    "start_url": "http://localhost:3000",
+    "background_color": "#FFFFFF",
+    "theme_color": "#000000",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "http://image.ibb.co/frYOFd/tmlogo.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "http://image.ibb.co/frYOFd/tmlogo.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
